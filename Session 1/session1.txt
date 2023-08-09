@@ -1,1 +1,20 @@
-
+Firstly I created the main directory using command mkdir and for creating it including space in the name I used double quotes
+I changed the working directory using command cd 
+I created the new subdirectory using command mkdir and changed the work dircetory to it using cd
+Then created the 3 files using touch command and put spaces between each file name to create it at the same time
+Finally used ls command to verfity the presence of the files
+Used command cd .. to return to the main directory then created a hidden file using touch and put . before file name to be hidden
+Finally used ls command to verfity that it is hidden then used ls -a to verfity its presence 
+Changed the directory to Documents directory using cd then used nano text editor to write the short message
+Saved the message using ctrl + x then clicking Y to save 
+Finally used command cat od display the message
+Returned again to Documents directory using cd command
+Created the new dirctory using mkdir command and out the name in double quotes because it is a special character
+Then used command cd and give it the absolute path to enter the directory
+Returned back to the main directory using command cd .. twice 
+Copied the Documents directory using command cp -r and give it the new name
+Finally I verfied its presence using ls command
+Used less command for displaying the content of the hidden file
+Returned to Documents directory using cd then started to move files using mv command and give it the absolute path for the new destination 
+Finally returned to the main directory using command cd .. and used ls command to verfiy that the files were moved 
+Lastly I used rm -rf command to remove the main directory and checked its removal using ls command 
