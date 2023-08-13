@@ -1,1 +1,16 @@
-
+First downloaded the task file
+Used unzip command to unzip the file
+Then used cd command to enter the directory 
+used command ls -a to see the content of the directory 
+used command cat to see content of the readme file
+used command tar -xf to extract the file
+used cd command to enter the directory
+used command ls -a to see the content of the directory 
+used cat command to read the content of the readme file 
+used file command to know the type of the file 
+used mv command to rename the file to add gz suffix
+used gunzip command to unzip the file 
+used file to know the type of the new file
+used commad tar -x to extract the file
+entered it using command cd
+finally used ls to see the content of it
