@@ -1,0 +1,21 @@
+First used adduser command to create a new user osc
+used passwd command to add a password for the user
+used addgroup command to create new group
+used command sudo usermod -aG osc_group osc to add osc to the new group
+used command sudo usermod -aG sudo osc to grant privileges to the user
+used command su to switch user
+created new directory using mkdir command
+then created the three files using touch command 
+changed every file permissions using chmod command
+changed the owner of the file using command chown
+and changed the group using command chgrp
+put & in the end of the command to run in the background
+then used the pid and command kill to kill the running process
+opened vim and suspended it using ctrl + z
+kiled the process using command killall -s KILL vim
+used command ps to check that the 2 processes are killed 
+used command sudo apt install neofetch to install neofetch
+used command sudo apt remove neofetch to delete it
+small note 
+( in the terminal I installed firefox package and deleted it because neofetch failed to be downloaded and I tried many
+times and aked the support so in the end it is the same command but different package )
